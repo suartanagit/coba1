@@ -1,1 +1,3 @@
-ditulis dow _dow4
+baris ini saya hapus
+
+lalu saya tambah ini __dow4
